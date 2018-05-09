@@ -1,0 +1,36 @@
+body {
+    background-color: #c7c7c7;
+}
+
+.unchecked {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.checked_p1 {
+    background-color: #ff893e;
+    border: none;
+    color: white;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.checked_p2 {
+    background-color: #3e58ff;
+    border: none;
+    color: white;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
